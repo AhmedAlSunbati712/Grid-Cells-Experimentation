@@ -12,3 +12,5 @@ conda activate path-network
 ```
 pip install ipykernel tensorflow==2.19.0 numpy matplotlib scipy
 ```
+# Paper and Results
+Discussion of the literature, model and results can be found in our paper here: [Paper][https://drive.google.com/file/d/1pR6-ptnj3BMkv6ePprHLJpk3-N8XRFJ9/view?usp=sharing]
